@@ -226,3 +226,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+/src/.vs/ScintillaNET/v15/Server/sqlite3
